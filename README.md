@@ -1,8 +1,8 @@
-# 🍕 Cardápio Digital Responsivo
+Cardápio Digital Responsivo
 
 Este é um modelo de **cardápio online moderno e personalizável**, ideal para pizzarias, lanchonetes e pequenos negócios que desejam apresentar seus produtos de forma prática e elegante.
 
-## ✨ Funcionalidades
+Funcionalidades
 
 - ✅ Layout 100% responsivo (mobile, tablet e desktop)
 - ✅ Carrinho de compras com resumo dos pedidos
@@ -10,20 +10,20 @@ Este é um modelo de **cardápio online moderno e personalizável**, ideal para 
 - ✅ Campos de forma de pagamento, tipo de entrega e troco
 - ✅ Totalmente customizável com identidade visual
 
-## 🛠️ Tecnologias utilizadas
+Tecnologias utilizadas
 
 - HTML5  
 - CSS3 (com variáveis e estrutura responsiva)  
 - JavaScript puro (sem frameworks)  
 
-## 📦 Como usar
+Como usar
 
 1. Clone ou baixe este repositório
 2. Edite o arquivo `cardapio.json` com seus produtos e categorias
 3. Abra o `index.html` em um navegador moderno
 4. Customize cores e textos conforme sua marca
 
-## 📁 Estrutura do Projeto
+Estrutura do Projeto
 
 ```
 📁 projeto-cardapio
@@ -35,7 +35,7 @@ Este é um modelo de **cardápio online moderno e personalizável**, ideal para 
 └── termos.html
 ```
 
-## 💬 Personalização
+Personalização
 
 - Para trocar os produtos: edite `cardapio.json`
 - Para alterar cores e estilo: ajuste as variáveis em `style.css`

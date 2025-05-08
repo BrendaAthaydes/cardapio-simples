@@ -1,0 +1,87 @@
+[
+  {
+    "categoria": "Categoria 1",
+    "itens": [
+      {
+        "nome": "Produto 1",
+        "preco": 19.9,
+        "descricao": "Descrição genérica do produto.",
+        "imagem": "imagens/imagem.png"
+      },
+      {
+        "nome": "Produto 2",
+        "preco": 24.9,
+        "descricao": "Outro produto genérico de demonstração.",
+        "imagem": "imagens/imagem.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Categoria 2",
+    "itens": [
+      {
+        "nome": "Produto 3",
+        "preco": 19.9,
+        "descricao": "Descrição genérica do produto.",
+        "imagem": "imagens/imagem.png"
+      },
+      {
+        "nome": "Produto 4",
+        "preco": 24.9,
+        "descricao": "Outro produto genérico de demonstração.",
+        "imagem": "imagens/imagem.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Categoria 3",
+    "itens": [
+      {
+        "nome": "Produto 5",
+        "preco": 19.9,
+        "descricao": "Descrição genérica do produto.",
+        "imagem": "imagens/imagem.png"
+      },
+      {
+        "nome": "Produto 6",
+        "preco": 24.9,
+        "descricao": "Outro produto genérico de demonstração.",
+        "imagem": "imagens/imagem.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Categoria 4",
+    "itens": [
+      {
+        "nome": "Produto 7",
+        "preco": 19.9,
+        "descricao": "Descrição genérica do produto.",
+        "imagem": "imagens/imagem.png"
+      },
+      {
+        "nome": "Produto 8",
+        "preco": 24.9,
+        "descricao": "Outro produto genérico de demonstração.",
+        "imagem": "imagens/imagem.png"
+      }
+    ]
+  },
+  {
+    "categoria": "Categoria 5",
+    "itens": [
+      {
+        "nome": "Produto 9",
+        "preco": 19.9,
+        "descricao": "Descrição genérica do produto.",
+        "imagem": "imagens/imagem.png"
+      },
+      {
+        "nome": "Produto 10",
+        "preco": 24.9,
+        "descricao": "Outro produto genérico de demonstração.",
+        "imagem": "imagens/imagem.png"
+      }
+    ]
+  }
+]

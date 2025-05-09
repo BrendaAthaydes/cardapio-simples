@@ -43,4 +43,4 @@ Personalização
 
 ---
 
-Feito com 💻 por Brenda Athaydes
+Feito por Brenda Athaydes
